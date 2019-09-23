@@ -3,11 +3,19 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>portfolio-2d791.firebaseapp.com/</loc>
+    <loc>https://www.example.com/categories/</loc>
   </url>
   
   <url>
-    <loc>portfolio-2d791.firebaseapp.com/tags/</loc>
+    <loc>https://www.example.com/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.example.com/tags/</loc>
   </url>
   
 </urlset>
