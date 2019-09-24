@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on David King - Portfolio</title>
-    <link>/post/</link>
+    <link>https://davemk00.github.io/Portfolio/post/</link>
     <description>Recent content in Posts on David King - Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2016-19 </copyright>
     <lastBuildDate>Sun, 01 Oct 2017 12:29:41 +0800</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://davemk00.github.io/Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>TLM Projects</title>
-      <link>/post/tlm-projects/</link>
+      <link>https://davemk00.github.io/Portfolio/post/tlm-projects/</link>
       <pubDate>Sun, 01 Oct 2017 12:29:41 +0800</pubDate>
       
-      <guid>/post/tlm-projects/</guid>
+      <guid>https://davemk00.github.io/Portfolio/post/tlm-projects/</guid>
       <description>&lt;p&gt;Volunteering with &lt;a href=&#34;http://tlmfoundation.or.id/en/home-page/&#34;&gt;Yayasan Tanaoba Lais Manekat&lt;/a&gt; (TLM - We Serve With Love) in Kupang, West Timor, Indonesia, my role was as clean water advisor, capacity building WASH principles to local Kupang based staff, the field facilitators and communities.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>TC Pam Recovery - Vanuatu</title>
-      <link>/post/tc-pam-recovery-vanuatu/</link>
+      <link>https://davemk00.github.io/Portfolio/post/tc-pam-recovery-vanuatu/</link>
       <pubDate>Tue, 01 Mar 2016 12:29:41 +0800</pubDate>
       
-      <guid>/post/tc-pam-recovery-vanuatu/</guid>
+      <guid>https://davemk00.github.io/Portfolio/post/tc-pam-recovery-vanuatu/</guid>
       <description>&lt;p&gt;A two month mission with the &lt;a href=&#34;http://www.vanuaturedcross.org&#34;&gt;Vanuatu Red Cross&lt;/a&gt; for WASH assessment on &lt;a href=&#34;http://www.vanuaturedcross.org/cyclone-pam&#34;&gt;TC Pam Recovery&lt;/a&gt;. Designed spring capture water supply systems and completed four day needs assessment.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>GIS</title>
-      <link>/post/gis/</link>
+      <link>https://davemk00.github.io/Portfolio/post/gis/</link>
       <pubDate>Fri, 01 Jan 2010 12:29:41 +0800</pubDate>
       
-      <guid>/post/gis/</guid>
+      <guid>https://davemk00.github.io/Portfolio/post/gis/</guid>
       <description>Helsinki City bikes mapping and spatial funcationality: https://davemk00.github.io/HelCityBikes/</description>
     </item>
     
     <item>
       <title>Research</title>
-      <link>/post/research/</link>
+      <link>https://davemk00.github.io/Portfolio/post/research/</link>
       <pubDate>Fri, 01 Jan 2010 12:29:41 +0800</pubDate>
       
-      <guid>/post/research/</guid>
+      <guid>https://davemk00.github.io/Portfolio/post/research/</guid>
       <description>&lt;p&gt;My main focus of research was in water resources, particularly Urban Water Supply Systems. My &lt;a href=&#34;http://vuir.vu.edu.au/15534/&#34;&gt;PhD&lt;/a&gt; looked at the sensitivity of the yield of water systems to climate variability and modelling parameters.&lt;/p&gt;
 
 &lt;p&gt;Since my interests have diversified to flood forecasting, modelling, and mitigation.&lt;/p&gt;</description>
