@@ -1,15 +1,142 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Hugo Theme Basic</title>
-    <link>https://www.example.com/tags/</link>
-    <description>Recent content in Tags on Hugo Theme Basic</description>
+    <title>Tags on David King - Portfolio</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on David King - Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© 2016-19 &lt;a href=&#39;https://github.com/siegerts/hugo-theme-basic&#39;&gt;Hugo Theme Basic&lt;/a&gt;. Made by &lt;a href=&#39;https://twitter.com/siegerts&#39;&gt;@siegerts&lt;/a&gt;.</copyright>
+    <copyright>© 2016-19 </copyright>
+    <lastBuildDate>Sun, 01 Oct 2017 12:29:41 +0800</lastBuildDate>
     
-	<atom:link href="https://www.example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>engineering</title>
+      <link>/tags/engineering/</link>
+      <pubDate>Sun, 01 Oct 2017 12:29:41 +0800</pubDate>
+      
+      <guid>/tags/engineering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>indonesia</title>
+      <link>/tags/indonesia/</link>
+      <pubDate>Sun, 01 Oct 2017 12:29:41 +0800</pubDate>
+      
+      <guid>/tags/indonesia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>international development</title>
+      <link>/tags/international-development/</link>
+      <pubDate>Sun, 01 Oct 2017 12:29:41 +0800</pubDate>
+      
+      <guid>/tags/international-development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>water</title>
+      <link>/tags/water/</link>
+      <pubDate>Sun, 01 Oct 2017 12:29:41 +0800</pubDate>
+      
+      <guid>/tags/water/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recovery</title>
+      <link>/tags/recovery/</link>
+      <pubDate>Tue, 01 Mar 2016 12:29:41 +0800</pubDate>
+      
+      <guid>/tags/recovery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TC Pam</title>
+      <link>/tags/tc-pam/</link>
+      <pubDate>Tue, 01 Mar 2016 12:29:41 +0800</pubDate>
+      
+      <guid>/tags/tc-pam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vanuatu</title>
+      <link>/tags/vanuatu/</link>
+      <pubDate>Tue, 01 Mar 2016 12:29:41 +0800</pubDate>
+      
+      <guid>/tags/vanuatu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GIS</title>
+      <link>/tags/gis/</link>
+      <pubDate>Fri, 01 Jan 2010 12:29:41 +0800</pubDate>
+      
+      <guid>/tags/gis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hydrology</title>
+      <link>/tags/hydrology/</link>
+      <pubDate>Fri, 01 Jan 2010 12:29:41 +0800</pubDate>
+      
+      <guid>/tags/hydrology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>/tags/programming/</link>
+      <pubDate>Fri, 01 Jan 2010 12:29:41 +0800</pubDate>
+      
+      <guid>/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>research</title>
+      <link>/tags/research/</link>
+      <pubDate>Fri, 01 Jan 2010 12:29:41 +0800</pubDate>
+      
+      <guid>/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sensitivity analysis</title>
+      <link>/tags/sensitivity-analysis/</link>
+      <pubDate>Fri, 01 Jan 2010 12:29:41 +0800</pubDate>
+      
+      <guid>/tags/sensitivity-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>study</title>
+      <link>/tags/study/</link>
+      <pubDate>Fri, 01 Jan 2010 12:29:41 +0800</pubDate>
+      
+      <guid>/tags/study/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>water resources</title>
+      <link>/tags/water-resources/</link>
+      <pubDate>Fri, 01 Jan 2010 12:29:41 +0800</pubDate>
+      
+      <guid>/tags/water-resources/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
