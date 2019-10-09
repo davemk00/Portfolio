@@ -7,10 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© 2016-19 </copyright>
-    <lastBuildDate>Sun, 01 Oct 2017 12:29:41 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 12:29:41 +0800</lastBuildDate>
     
 	<atom:link href="https://davemk00.github.io/Portfolio/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>GIS - Forestry Management</title>
+      <link>https://davemk00.github.io/Portfolio/post/gis-forestry-management/</link>
+      <pubDate>Tue, 01 Jan 2019 12:29:41 +0800</pubDate>
+      
+      <guid>https://davemk00.github.io/Portfolio/post/gis-forestry-management/</guid>
+      <description>&lt;p&gt;Using LiDAR data to determine tree maturity within 21 forestry enclosures.
+LiDAR First/Last Returns &amp;gt;&amp;gt; DEM &amp;gt;&amp;gt; nDSM + Land Use classification &amp;gt;&amp;gt; Canopy Height &amp;gt;&amp;gt; Tree maturity&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>GIS - Helsinki City Bikes</title>
+      <link>https://davemk00.github.io/Portfolio/post/gis-helsinki-city-bikes/</link>
+      <pubDate>Tue, 01 Jan 2019 12:29:41 +0800</pubDate>
+      
+      <guid>https://davemk00.github.io/Portfolio/post/gis-helsinki-city-bikes/</guid>
+      <description>&lt;p&gt;As a MSc GIS project I developed Helsinki Shared City bikes map. This included setting up a web server, SQL database, and backend funcationality on a Raspberry Pi.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>TLM Projects</title>
@@ -28,15 +47,6 @@
       
       <guid>https://davemk00.github.io/Portfolio/post/tc-pam-recovery-vanuatu/</guid>
       <description>&lt;p&gt;A two month mission with the &lt;a href=&#34;http://www.vanuaturedcross.org&#34;&gt;Vanuatu Red Cross&lt;/a&gt; for WASH assessment on &lt;a href=&#34;http://www.vanuaturedcross.org/cyclone-pam&#34;&gt;TC Pam Recovery&lt;/a&gt;. Designed spring capture water supply systems and completed four day needs assessment.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>GIS</title>
-      <link>https://davemk00.github.io/Portfolio/post/gis/</link>
-      <pubDate>Fri, 01 Jan 2010 12:29:41 +0800</pubDate>
-      
-      <guid>https://davemk00.github.io/Portfolio/post/gis/</guid>
-      <description>Helsinki City bikes mapping and spatial funcationality: https://davemk00.github.io/HelCityBikes/</description>
     </item>
     
     <item>
